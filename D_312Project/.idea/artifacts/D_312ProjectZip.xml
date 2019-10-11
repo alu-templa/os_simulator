@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="D_312ProjectZip">
+    <output-path>$PROJECT_DIR$/out/production/D_312ProjectZip</output-path>
+    <root id="root">
+      <element id="archive" name="312ProjectZip.zip">
+        <element id="dir-copy" path="$PROJECT_DIR$/src" />
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/D_312Project_jar/D_312Project_jar.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>
